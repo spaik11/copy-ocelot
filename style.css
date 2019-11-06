@@ -86,3 +86,8 @@ body {
     height: 96px;
     width: 96px;
 }
+
+#ldp {
+    display: flex;
+    padding: 15px;
+}
